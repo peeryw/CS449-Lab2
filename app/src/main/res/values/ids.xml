@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="About" type="id">About</item>
+    <item name="Reset" type="id">Reset</item>
+    <item name="increment_ball_count" type="id">increment_ball_count</item>
+    <item name="decrement_ball_count" type="id">decrement_ball_count</item>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@id/Reset"
+        android:icon="@drawable/ic_replay"
+        android:title="@string/Reset"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@id/About"
+        android:title="@string/About"
+        app:showAsAction="collapseActionView"/>
+
+    <item android:id="@+id/Settings"
+        android:title="@string/Settings"
+        app:showAsAction="collapseActionView"/>
+
+</menu>

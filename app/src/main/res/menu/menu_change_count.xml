@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/Increment"
+        android:id="@+id/increment"
+        app:showAsAction="ifRoom">
+
+        <menu>
+
+            <item android:title="@string/Increment_Strike_Count"
+                android:id="@+id/increment_strike_count"/>
+
+            <item android:title="@string/Increment_Ball_Count"
+                android:id="@id/increment_ball_count"/>
+
+        </menu>
+
+    </item>
+
+
+    <item android:title="@string/Decrement"
+        android:id="@+id/decrement"
+        app:showAsAction="ifRoom">
+
+        <menu>
+
+            <item android:title="@string/Decrement_Strike_Count"
+                android:id="@+id/decrement_strike_count"/>
+
+            <item android:title="@string/Decrement_Ball_Count"
+                android:id="@id/decrement_ball_count"/>
+
+        </menu>
+
+    </item>
+
+
+</menu>

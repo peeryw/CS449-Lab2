@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">UmpireBuddy</string>
+
+    <string name="Strike">Strike</string>
+
+    <string name="STRIKE">STRIKE</string>
+
+    <string name="BALL">BALL</string>
+
+    <string name="textViewStrikeCount"/>
+
+    <string name="textViewBallCount"/>
+
+    <string name="About">About</string>
+
+    <string name="Reset">Reset</string>
+
+    <string name="Increment">Increment</string>
+
+    <string name="Increment_Strike_Count">Increment Strike Count</string>
+
+    <string name="Increment_Ball_Count">Increment Ball Count</string>
+
+    <string name="Decrement">Decrement</string>
+
+    <string name="Decrement_Strike_Count">Decrement Strike Count</string>
+
+    <string name="Decrement_Ball_Count">Decrement Ball Count</string>
+
+    <string name="Settings">Settings</string>
+    <string name="Ball">Ball:</string>
+    <string name="TotalOuts">Total Outs:</string>
+    <string name="TotalOutCount" />
+
+</resources>
